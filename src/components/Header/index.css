@@ -1,0 +1,45 @@
+.nav-header {
+  background-color: #272727;
+  background-size: conver;
+  padding: 8px;
+}
+
+.margins {
+  margin-left: 15px;
+  height: 35px;
+}
+
+.nav-elements-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: 'Roboto';
+  list-style-type: none;
+}
+
+.nav-item {
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 500;
+  margin-right: 30px;
+  text-decoration: none;
+}
+
+.nav-elements-list2 {
+  display: flex;
+  align-items: center;
+}
+
+.logout-btn {
+  background-color: #6366f1;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+  height: 30px;
+  width: 115px;
+  border: none;
+  border-radius: 8px;
+  outline: none;
+  cursor: pointer;
+  margin-right: 35px;
+}
